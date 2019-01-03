@@ -1,0 +1,72 @@
+../../../config;
+../../../../../../components;
+../../../../../../components/boards;
+../../../../../../components/drivers_nrf/nrf_soc_nosd;
+../../../../../../components/libraries/balloc;
+../../../../../../components/libraries/bsp;
+../../../../../../components/libraries/delay;
+../../../../../../components/libraries/experimental_log;
+../../../../../../components/libraries/experimental_log/src;
+../../../../../../components/libraries/experimental_memobj;
+../../../../../../components/libraries/experimental_section_vars;
+../../../../../../components/libraries/fifo;
+../../../../../../components/libraries/strerror;
+../../../../../../components/libraries/uart;
+../../../../../../components/libraries/util;
+../../../../../../components/toolchain/cmsis/include;
+../../..;
+../../../../../../integration/nrfx;
+../../../../../../integration/nrfx/legacy;
+../../../../../../modules/nrfx;
+../../../../../../modules/nrfx/drivers/include;
+../../../../../../modules/nrfx/hal;
+../../../../../../modules/nrfx/mdk;
+../config;
+
+
+
+Include H_File:
+
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\config
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\boards
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\drivers_nrf\nrf_soc_nosd
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\libraries\balloc
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\libraries\bsp
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\libraries\delay
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\libraries\experimental_log
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\libraries\experimental_log\src
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\libraries\experimental_memobj
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\libraries\experimental_section_vars
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\libraries\fifo
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\libraries\strerror
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\libraries\uart
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\libraries\util
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\components\toolchain\cmsis\include
+../../..
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\integration\nrfx
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\integration\nrfx\legacy
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\modules\nrfx
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\modules\nrfx\drivers\include
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\modules\nrfx\hal
+E:\Offline_Project\Nordic BLE\Code\nRF5_SDK_15.0.0_a53641a\modules\nrfx\mdk
+
+
+
+E:\Offline_Project\Nordic BLE\Code\UART_Communication\uart\pca10056\blank\config
+
+
+#Preprocessor DEFINE:
+
+BOARD_PCA10056
+BSP_DEFINES_ONLY
+CONFIG_GPIO_AS_PINRESET
+FLOAT_ABI_HARD
+INITIALIZE_USER_SECTIONS
+NO_VTOR_CONFIG
+NRF52840_XXAA
+NDEBUG
+
+
+
+
